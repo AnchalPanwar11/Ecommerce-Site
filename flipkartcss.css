@@ -1,0 +1,395 @@
+/* CSS Document */
+input
+{
+	position:relative;
+	height:25px;
+	border-color:#F93;
+	border-style:solid;
+	border-width:1px;
+	border-radius:5px;
+	color:#03C;
+	font-weight:bold;
+}
+select
+{
+	position:relative;
+	height:25px;
+	border-color:#F93;
+	border-style:solid;
+	border-width:1px;
+	border-radius:5px;
+	color:#03C;
+	font-weight:bold;
+}
+#maindiv
+{
+   position:relative;
+   background-color:#FFF;
+   width:1400px;
+}
+#heading
+{
+	position:relative;
+	background-color:#999;
+	height:80px;
+	width:1100px;
+}
+#menudiv
+{
+	position:relative;
+	height:44px;
+	width:1400px;
+	background-color:#FFF;
+}
+#linediv
+{
+	position:relative;
+	height:3px;
+	width:1100px;
+	background-color:#999;
+}
+#picdiv
+{
+	position:relative;
+	height:200px;
+	width:220px;
+	background-color:#FFF;
+}
+#bodydiv
+{
+	position:relative;
+	width:1400px;
+	background-color:#CCC;
+}
+#bodydiv1
+{
+	position:relative;
+	width:300px;
+	background-color:#CCC;
+}
+#addproduct1
+{
+	position:relative;
+	height:280px;
+	width:300px;
+	background-color:#C9C;
+}
+#addproduct2
+{
+	position:relative;
+	height:40px;
+	width:300px;
+	background-color:#FFF;
+}
+#addproduct2 a
+{
+	position:relative;
+	text-decoration:none;
+	display:block;
+	color:#336;
+}
+#myproduct
+{
+	position:relative;
+	width:1100px;
+	background-color:#FFF;
+}
+#yesno
+{
+	position:relative;
+	height:35px;
+	width:1100px;
+	background-color:#CCC;
+}
+#bodydiv2
+{
+	position:relative;
+	width:1100px;
+	background-color:#FFF;
+}
+#sidediv1
+{
+	position:relative;
+	height:40px;
+	width:300px;
+	background-color:#CCC;
+}
+#sidediv1 a
+{
+	position:relative;
+	text-decoration:none;
+	display:block;
+	color:#000;
+}
+#sidediv1 a:hover
+{
+	position:relative;
+	text-decoration:underline;
+}
+#sidediv2
+{
+	position:relative;
+	height:3px;
+	width:300px;
+	background-color:#666;
+}
+#menupart
+{
+	position:relative;
+	height:44px;
+	width:280px;
+	background-color:#9FC;
+}
+#div2
+{
+  position:relative;
+  background-color:#FFFFFF;
+  height:80px;
+  width:1400px;
+}
+#div2a
+{
+   position:relative;
+   background-color:#FFF;
+   height:46px;
+   width:130px;
+}
+#space
+{
+	position:relative;
+	background-color:#FFF;
+	height:46px;
+	width:40px;
+}
+#div2b
+{
+   position:relative;
+   background-color:#FFF;
+   height:46px;
+   width:400px;
+
+}
+#div2d
+{
+   position:relative;
+   background-color:#FFF;
+   height:46px;
+   width:110px;
+}
+#div2d a
+{
+   position:relative;
+   text-decoration:none;
+   display:block;
+   color:#999;
+}
+#div2e
+{
+   position:relative;
+   background-color:#FFF;
+   height:46px;
+   width:190px;
+}
+#div2e a
+{
+   position:relative;
+   text-decoration:none;
+   display:block;
+   color:#999;
+}
+#div3
+{
+  position:relative;
+  background-color:#FFFFFF;
+  height:12px;
+  width:1400px;
+}
+#div4
+{
+  position:relative;
+ 
+  height:150px;
+  width:1400px;
+}
+#writediv
+{
+	position:relative;
+	height:44px;
+	width:112px;
+	background-color:#FFF;
+}
+#writediv a
+{
+	position:relative;
+	text-decoration:none;
+	display:block;
+	color:#333;
+}
+#div4a
+{
+   position:relative;
+
+   height:150px;
+   width:170px;
+}
+#div4b
+{
+   position:relative;
+ 
+   height:150px;
+   width:112px;
+}
+#div4b2
+{
+   position:relative;
+  
+   height:150px;
+   width:10px;
+}
+#div5
+{
+  position:relative;
+  background-color:#FFFFFF;
+  height:20px;
+  width:1400px;
+}
+#div6
+{
+  position:relative;
+  background-color:#9966CC;
+  height:230px;
+  width:1400px;
+}
+#div7
+{
+  position:relative;
+  background-color:#000000;
+  height:370px;
+  width:1400px;
+}
+#div7a
+{
+  position:relative;
+  height:310px;
+  width:1400px;
+}
+#div7a1
+{
+  position:relative;
+  height:310px;
+  width:233px;
+}
+#div7a1 a
+{
+  position:relative;
+  display:block;
+  text-decoration:none;
+  color:#FFFFFF;
+}
+#div7a1 a:hover
+{
+  position:relative;
+  display:block;
+  text-decoration:underline;
+  color:#FFFFFF;
+}
+#div7b
+{
+  position:relative;
+  height:55px;
+  background-color:#000000;
+  width:1400px;
+}
+#div7c
+{
+  position:relative;
+  height:5px;
+  background-color:#666666;
+  width:1400px;
+}
+#div8
+{
+  position:relative;
+  background-color:#FFFFFF;
+  width:1400px;
+}
+#div8a
+{
+   position:relative;
+   background-color:#FF00FF;
+   width:303px;
+}
+#div8b
+{
+   position:relative;
+   background-color:#0000FF;
+   width:1153px;
+}
+#div8bb
+{
+   position:relative;
+   background-color:#336666;
+   width:1400px;
+}
+#table8a
+{
+    position:relative;
+	background-color:#FFFFFF;
+	width:245px;
+}
+#table8b
+{
+    position:relative;
+	background-color:#FFFFFF;
+	width:678px;
+}
+#table8c
+{
+    position:relative;
+	background-color:#FFFFFF;
+	width:230px;
+}
+#div8one
+{
+    position:relative;
+	background-color:#FFFFFF;
+	width:500px;
+}
+#div8oneA
+{
+   position:relative;
+   background-color:#FFFFFF;
+   width:500px;
+}
+#div8oneB
+{
+   position:relative;
+   background-color:#FFFFFF;
+   width:500px;
+}
+#div8two
+{
+    position:relative;
+	background-color:#FFFFFF;
+	width:956px;
+}
+#div8twoA
+{
+  position:relative;
+  background-color:#FFFFFF;
+  width:956px
+}
+#div8twoB
+{
+  position:relative;
+  background-color:#FFFFFF;
+  width:956px
+}
+#div9
+{
+  position:relative;
+  background-color:#FFFFFF;
+  width:1400px;
+}
+
+
